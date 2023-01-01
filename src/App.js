@@ -8,9 +8,9 @@ import CardsDetails from './pages/CardsDetails'
 function App() {
   return (
     <>
-        <Header/>
+        <Header />
         <Routes>
-            <Route path="/Khans-sons/" element={<Cards/>}/>
+            <Route path="cards" element={<Cards/>}/>
             <Route path="/cart/:id" element={<CardsDetails/>}/>
         </Routes>
     </>

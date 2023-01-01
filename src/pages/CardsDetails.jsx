@@ -38,7 +38,7 @@ const CardsDetails = () => {
 
   const dlt = (id)=>{
     dispatch(DLT(id));
-    history("/Khans-sons/");
+    history("/");
 }
 
 //remove one item 
