@@ -60,10 +60,10 @@ const Header = () => {
         <div>
             <Navbar bg="dark" variant="dark" style={{ height: '60px' }}>
                 <Container>
-                    <NavLink to="/" className='text-decoration-none text-light mx-3'>Add to cart</NavLink>
+                    <NavLink to="/Khans-sons/" className='text-decoration-none text-light mx-3'>Add to cart</NavLink>
                     {/* <img src={Logo} className='mx-3' style={{width:100}}  alt="" /> */}
                     <Nav className="me-auto">
-                        <NavLink to="/" className='text-decoration-none text-light'>Home</NavLink>
+                        <NavLink to="/Khans-sons/" className='text-decoration-none text-light'>Home</NavLink>
                     </Nav>
                     <Badge badgeContent={getData.length} color="primary" id="basic-button"
                         aria-controls={open ? 'basic-menu' : undefined}
