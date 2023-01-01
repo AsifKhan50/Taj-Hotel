@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Taj-Hotel/static/css/main.c47e0670.css",
-    "main.js": "/Taj-Hotel/static/js/main.f2755bc2.js",
+    "main.js": "/Taj-Hotel/static/js/main.0124d2be.js",
     "static/media/Cart.gif": "/Taj-Hotel/static/media/Cart.325607683b759bd36d3a.gif",
     "index.html": "/Taj-Hotel/index.html",
     "main.c47e0670.css.map": "/Taj-Hotel/static/css/main.c47e0670.css.map",
-    "main.f2755bc2.js.map": "/Taj-Hotel/static/js/main.f2755bc2.js.map"
+    "main.0124d2be.js.map": "/Taj-Hotel/static/js/main.0124d2be.js.map"
   },
   "entrypoints": [
     "static/css/main.c47e0670.css",
-    "static/js/main.f2755bc2.js"
+    "static/js/main.0124d2be.js"
   ]
 }
